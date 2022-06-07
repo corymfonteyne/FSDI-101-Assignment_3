@@ -1,0 +1,19 @@
+/*global*/
+
+body{
+    margin-top: 50px;
+    font-family: 'Roboto Mono', monospace;  
+}
+/*utilities*/
+/*header*/
+header{ 
+    text-align: center;
+    background-image:url(https://images.squarespace-cdn.com/content/v1/5570a318e4b02d3071ca7d2b/1546887573347-I9GHTK88KDVZYPLMCCET/contemporary-websites-header-background.jpg?format=1500w);
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+}
